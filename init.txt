@@ -1,1 +1,1 @@
-this is my first git hub doc 
+this is my first github doc
